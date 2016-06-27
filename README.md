@@ -3,7 +3,7 @@ This application will send an application deployment discriptor
 # NRCONFIG
 NRURL: https://api.newrelic.com/v2/applications is default and should not to be changed
 
-NRAPIKEY: * ~~~~~~~~~~~~~~~~~ * is the API key count in account settings API key.  You must have Admnin to see key.
+NRAPIKEY: * ~~~~~~~~~~~~~~~~~ * is the API key fount in account settings API key.  You must have Admnin to see key.
 
 LOGFILE: nrproc.log name of logfile
 
