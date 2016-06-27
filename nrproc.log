@@ -1,0 +1,10 @@
+INFO:root:Start
+INFO:root:NR_Response{"deployment":{"id":10584345,"revision":"gggggg","changelog":"dssddsfsfsd","description":"blablabla","user":"sssfsfsssf","timestamp":"2016-06-27T14:42:59-07:00","links":{"application":25305106}},"links":{"deployment.agent":"/v2/applications/{application_id}"}}
+INFO:root:Start
+INFO:root:Start
+INFO:root:NR_Response{"deployment":{"id":10584358,"revision":"gggggg","changelog":"dssddsfsfsd","description":"blablabla","user":"sssfsfsssf","timestamp":"2016-06-27T21:46:08+00:00","links":{"application":25305106}},"links":{"deployment.agent":"/v2/applications/{application_id}"}}
+INFO:root:Start
+ERROR:NewRelic:failed NR HTTP Call
+INFO:root:NR_Response
+INFO:root:Start
+INFO:root:NR_Response{"deployment":{"id":10584363,"revision":"gggggg","changelog":"dssddsfsfsd","description":"blablabla","user":"sssfsfsssf","timestamp":"2016-06-27T21:47:26+00:00","links":{"application":25305106}},"links":{"deployment.agent":"/v2/applications/{application_id}"}}
