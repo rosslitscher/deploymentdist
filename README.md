@@ -19,12 +19,9 @@ PROXYUSER: username of User for proxy
 PROXYPASS: Password for Proxy
 
 # Install Directions
-Install is simple unzip in directory execute nydeploy.py.  
+Install is simple unzip in directory execute nrdeploy.py.  
 
 
 It does require urllib2
 
-# Insight
-
-Sample Insights Dashboard is included as Insights.json
 
