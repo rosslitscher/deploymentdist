@@ -24,4 +24,11 @@ Install is simple unzip in directory execute nrdeploy.py.
 
 It does require urllib2
 
+# Run It
+
+nrdeploy.py --revision xxxxx --user xxxxxxx --changelog xxxxxxxxx --description xxxxxxx --appid 32113231
+
+
+
+
 
